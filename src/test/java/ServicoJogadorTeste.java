@@ -79,7 +79,7 @@ public class ServicoJogadorTeste {
          Jogador jogador5 = new Jogador("Kevin De Bruyne", 1991, "meio-campo", "belga", 181, 68);
          Jogador jogador6 = new Jogador("Sergio Ramos", 1986, "defesa", "espanhol", 172, 66);
          Jogador jogador7 = new Jogador("Manuel Neuer", 1986, "defesa", "alemão", 194, 92);
-         Jogador jogador8 = new Jogador("Virgil van Dijk", 1991, "defesa", "holandês", 193, 92);
+         Jogador jogador8 = new Jogador("Virgil van Dijk", 1991, "defesa", "holandês", 193, 94);
          Jogador jogador9 = new Jogador("Robert Lewandowski", 1988, "atacante", "polonês", 185, 82);
          Jogador jogador10 = new Jogador("Kylian Mbappé", 1998, "atacante", "francês", 178, 73);
 
